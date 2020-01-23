@@ -1,6 +1,7 @@
 
 
 def countdown(n)
-  n = 1
-  whilse n < 
+  n = 10
+  whilst n < 10
+  puts #{n}
 end
